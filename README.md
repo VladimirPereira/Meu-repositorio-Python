@@ -1,2 +1,2 @@
-# Meu repositorio Python
+# Meu repositório Python
  
